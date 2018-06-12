@@ -25,9 +25,9 @@ Server Nuker is a powerful Node.js program that will destroy any Discord server 
 This program is **very powerful.** It runs **very fast** on small servers but (less than 250 members). And it only takes a minute to **ban everyone in the server, and delete all roles/channels.**. **I am not responsible** for any damage you do with this tool, or any punishments you get from the server owners, **or even Discord Staff (They could ban your account for API abuse)**. Please use this tool on an alt account or on a bot account. Don't fucking blame me if your server got nuked with this.
 If you want this Bot then please visit **https://rocketr.net/buy/452c2bf0a953** ☜
 
-> Need help with finding your Discord token? then visit [here](https://github.com/Mydract/Discord-Nuker/wiki/%F0%9F%94%91-%7C-How-to-get-your-discord-token).
+> Need help with finding your Discord token? then visit [here](https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord).
 
-> If you're worried about getting banned or otherwised punished by Discord for using a selfbot, or you just haven't read the rules yet, see [here](https://github.com/Mydract/Discord-Nuker/wiki/SelfBot-Rules).
+> If you're worried about getting banned or otherwised punished by Discord for using a selfbot, or you just haven't read the rules yet, see [here](https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-).
 
 # Install
 
