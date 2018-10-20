@@ -63,7 +63,7 @@ Once the program has connected to the API, run one of the commands below in te s
 
 # In Action
 
-[**Click Here! To See Action.**](https://www.youtube.com/watch?v=jxJtIWfiCa4)
+[**Click Here! To See Action.**](https://www.youtube.com/watch?v=pqQct0Xp-Oo)
 
 # Servers Destroyed With Server-Nuker
 
@@ -79,10 +79,10 @@ Once the program has connected to the API, run one of the commands below in te s
 
 -Midnight Falls (4.4K victims)
 
--Nitro (Nuked with Server nuker version 10) (10.5K victims)
+-Nitro (Nuked wih Server Nuker version 10) (10.5K victims)
 
 # Buy me a cup of coffee ☕
 
-I've worked hard to code this selfbot hopefully eveyone will donate me and show some support of my hard work, even if I don't get donations. That said, I know there are people out there that may still want to donate just to show their appreciation so this is for you guys. Thanks in advance!
+I've worked hard to code this selfbot hupefully you will show me some support, even if I don't get donations. That said, I know there are people out there that may still want to donate just to show their appreciation so this is for you guys. Thanks in advance!
 
 [**Donate Here!**](https://www.paypal.me/mmirza514) ☕
