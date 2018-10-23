@@ -1,14 +1,14 @@
 {
   "name": "server-nuker",
   "version": "1.0.0",
-  "description": "The best way to destroy a Discord server.",
+  "description": "The best way to destroy any Discord servers.",
   "main": "index.js",
   "scripts": {
     "test": "idk"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mydract/Discord-Server-Nuker.git"
+    "url": "git+https://github.com/Mydract/Discord-Server-Destroyer.git"
   },
   "keywords": [
     "raid",
@@ -16,12 +16,12 @@
     "overwrite",
     "discord"
   ],
-  "author": "Kyle2000",
+  "author": "Mydract",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mydract/Discord-Server-Nuker/issues"
+    "url": "https://github.com/Mydract/Discord-Server-Destroyer/issues"
   },
-  "homepage": "https://github.com/Mydract/Discord-Server-Nuker#readme",
+  "homepage": "https://github.com/Mydract/Discord-Server-Destroyer#readme",
   "dependencies": {
     "discord.js": "^11.1.0"
   }
